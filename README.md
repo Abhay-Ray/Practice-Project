@@ -1,2 +1,2 @@
 # Practise-Project
-HTML, CSS &amp; JS practise projects.
+HTML, CSS &amp; JS practice projects.
